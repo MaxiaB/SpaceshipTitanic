@@ -80,4 +80,4 @@ We trained four base learners through identical pipelines:
 * **Threshold Sweep Plot:** confirms optimal cutoff at 0.51.
 * **Hyperparameter Parallel Plot:** shows best regions for `colsample_bytree`, `subsample`, `learning_rate`, `n_estimators`, and `max_depth`.
 
-*This README summarizes our exploratory analysis, preprocessing pipeline, modeling approach, and results as presented in our deck.*
+*This README summarizes our exploratory analysis, preprocessing pipeline, modeling approach, and results as presented in our deck, summarized by our dear operational assistant, ChatGPT.*
